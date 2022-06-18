@@ -62,6 +62,8 @@ python3 sms.py --body "\nHello, World!"
 
 Wait for the message to show up on your phone!
 
+![Output](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/text.jpg)
+
 Run the update script:
 
 ```bash
