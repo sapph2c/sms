@@ -14,6 +14,8 @@ Create a new Gmail account (recommended) or use an existing one:
 
 [Gmail signup](https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S571141601%3A1655573958454104&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp)
 
+Copy the email address into .env, along with your phone number
+
 Go to manage your Gmail account:
 
 ![](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
