@@ -16,15 +16,15 @@ Create a new Gmail account (recommended) or use an existing one:
 
 Go to manage your Gmail account:
 
-![Manage Gmail]("images/manage\ account.png")
+![2-step]("https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
 
 Enable 2-step verification:
 
-![2-step]("images/2-step\ verification.png")
+![Manage Gmail](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/2-step%20verification.png)
 
 Add an app password:
 
-![App Password]("images/app\ password.png")
+![App Password](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/app%20password.png)
 
 Copy that password into .env, replacing the placeholder password:
 
@@ -62,7 +62,7 @@ python3 sms.py --body "\nHello, World!"
 
 Wait for the message to show up on your phone!
 
-![Output](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/text.jpg)
+![Text Message](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/text.jpg)
 
 Run the update script:
 
