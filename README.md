@@ -16,15 +16,15 @@ Create a new Gmail account (recommended) or use an existing one:
 
 Go to manage your Gmail account:
 
-![Manage Gmail](images/manage\ account.png)
+![Manage Gmail]("images/manage\ account.png")
 
 Enable 2-step verification:
 
-![2-step](images/2-step\ verification.png)
+![2-step]("images/2-step\ verification.png")
 
 Add an app password:
 
-![App Password](images/app\ password.png)
+![App Password]("images/app\ password.png")
 
 Copy that password into .env, replacing the placeholder password:
 
