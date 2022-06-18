@@ -16,17 +16,19 @@ Create a new Gmail account (recommended) or use an existing one:
 
 Go to manage your Gmail account:
 
-![2-step]("https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
+![Manage Gmail]("https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
 
 Enable 2-step verification:
 
-![Manage Gmail](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/2-step%20verification.png)
+![2 Step](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/2-step%20verification.png)
 
 Add an app password:
 
 ![App Password](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/app%20password.png)
 
-Copy that password into .env, replacing the placeholder password:
+Copy that password into .env, replacing the placeholder password
+
+## Getting Carrier Info
 
 Find your carrier from the list bellow:
 
@@ -53,6 +55,8 @@ Find your carrier from the list bellow:
 - Xfinity Mobile: number@vtext.com (SMS), number@mypixmessages.com (MMS)
 
 Copy the text after `number@` and replace the carrier placeholder in .env
+
+## Putting Everything Together
 
 Run the python script directly:
 
