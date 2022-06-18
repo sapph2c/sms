@@ -16,7 +16,7 @@ Create a new Gmail account (recommended) or use an existing one:
 
 Go to manage your Gmail account:
 
-![Manage Gmail]("https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
+![](https://github.com/AshleyNikr/SMS-Alerts/blob/main/images/manage%20account.png)
 
 Enable 2-step verification:
 
